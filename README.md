@@ -35,7 +35,6 @@ The results are tested on Ubuntu with CPU: `13th Gen Intel(R) Core(TM) i7-13700K
 ## Installation
 
    ```sh
-   git clone --recursive https://github.com/liumy2010/LiteEFG.git
    cd LiteEFG
    pip install .
    ```
